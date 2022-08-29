@@ -1,0 +1,1 @@
+# ck3_bulgarian_localization
