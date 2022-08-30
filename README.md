@@ -11,3 +11,5 @@ Each translated File must contain your Signature at the end of the file.
 () = Optional
 
 Anyone can use these files, but if you're going to share them publicly, it's necessary to give credits to the mod contributors and organizers!
+
+This mod includes the CyrillicOld font which is used in displaying the names over the game map. 
