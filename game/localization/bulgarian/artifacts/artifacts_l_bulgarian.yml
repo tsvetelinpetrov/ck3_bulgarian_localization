@@ -1,16 +1,16 @@
 ﻿l_bulgarian:
- artifact_type_helmet:0 "crown"
- artifact_type_primary_armament:0 "weapon"
- artifact_type_armor:0 "armor"
- artifact_type_regalia:0 "regalia"
+ artifact_type_helmet:0 "корона"
+ artifact_type_primary_armament:0 "оръжие"
+ artifact_type_armor:0 "доспех"
+ artifact_type_regalia:0 "регалия"
  artifact_type_trinket:0 "keepsake"
- artifact_type_wall_big:0 "hanging decoration"
+ artifact_type_wall_big:0 "драперия"
  artifact_type_wall_small:0 "$artifact_type_wall_big$"
- artifact_type_throne:0 "throne"
+ artifact_type_throne:0 "трон"
  artifact_type_sculpture:0 "display piece"
- artifact_type_book:0 "book"
+ artifact_type_book:0 "книга"
  artifact_type_pedestal:0 "$artifact_type_sculpture$"
- artifact_type_elixir:0 "elixir"
+ artifact_type_elixir:0 "еликсир"
 
 # These are used for when we generate the title at the same time as we create the artifact
  artifact_name_prefix:1 "[SCOPE.Custom('ArtifactPrefixGeneric')|U]"
@@ -1068,3 +1068,5 @@
  # Blessed Junk
  fp2_blessed_junk:0 "[ROOT.Char.Custom('TrinketLookAdjective')|U] $blessed_artifact_modifier$"
  fp2_blessed_junk_desc:0 "A [ROOT.Char.Custom('TrinketLookAdverbFollowup')] [ROOT.Char.Custom('TrinketLookAdjective')] though otherwise pointless artifact. $blessed_artifact_modifier_desc$."
+ 
+ ### tsvetelinpetrov ###
