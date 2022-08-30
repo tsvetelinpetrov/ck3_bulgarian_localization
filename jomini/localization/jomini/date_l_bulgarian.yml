@@ -2,3 +2,5 @@
  DATE_AD_YEAR:0 "$YEAR$ сл.н.е"
  DATE_BC_YEAR:0 "$YEAR$ пр.н.е"
  DATE_FORMATTING_LONG:0 "$DAY$ $MONTH$, $YEAR$"
+
+### tsvetelinpetrov - 30.08.2022 ###

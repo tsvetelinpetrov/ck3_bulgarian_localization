@@ -1,7 +1,9 @@
 ﻿l_bulgarian:
- CREDITS_CLOSE:0 "Close"
- CREDITS_PAUSE:0 "Pause"
- CREDITS_CONTINUE:0 "Continue"
- CREDITS_SLOWER:0 "Slower"
- CREDITS_FASTER:0 "Faster"
- CREDITS_BACK:0 "Back"
+ CREDITS_CLOSE:0 "Затвори"
+ CREDITS_PAUSE:0 "Паузирай"
+ CREDITS_CONTINUE:0 "Продължи"
+ CREDITS_SLOWER:0 "Забави"
+ CREDITS_FASTER:0 "Забързай"
+ CREDITS_BACK:0 "Назад"
+
+### tsvetelinpetrov - 30.08.2022 ###
