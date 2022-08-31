@@ -47,7 +47,7 @@
  PROVINCE_TOOLTIP_LESSEE:0 "Наемател: [CHARACTER.GetUINameNoTooltip|UV]"
  PROVINCE_TOOLTIP_OCCUPIED:0 "Окупатор: [CHARACTER.GetUINameNoTooltip|UV]"
  PROVINCE_TOOLTIP_CULTURE:0 "Култура: [COUNTY.GetCulture.GetNameNoTooltip|V]"
- PROVINCE_TOOLTIP_FAITH:0 "Вяра: [COUNTY.GetFaith.GetNameNoTooltip|V]"
+ PROVINCE_TOOLTIP_FAITH:0 "Конфесия: [COUNTY.GetFaith.GetNameNoTooltip|V]"
  PROVINCE_TOOLTIP_TERRAIN:0 "Терен: [PROVINCE.GetTerrain.GetNameNoTooltip|V]"
  PROVINCE_TOOLTIP_DEVELOPMENT:0 "Развитие: [COUNTY.GetDevelopmentLevel|V]"
  PROVINCE_DEBUG:1 "\nID: [PROVINCE.GetId] [PROVINCE.GetTag]"

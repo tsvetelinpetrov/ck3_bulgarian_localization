@@ -845,9 +845,9 @@
  doctrine_parameter_clerical_appointment_fixed_disabled:1 "The [realm_priest|E] or [court_chaplain|E] can be fired and replaced by a new appointee"
  doctrine_parameter_clerical_appointment_fixed:0 "The [realm_priest|E] or [court_chaplain|E] have their seat for life"
 
- unreformed_faith_doctrine_name:0 "Unreformed"
- unreformed_faith_name:0 "$unreformed_faith_doctrine_name$"
- unreformed_faith_doctrine_desc:1 "An Unreformed Faith lacks an organized clergy and established canonical doctrines; different communities can nominally follow the same faith while having wildly different religious practices and beliefs."
+ unreformed_faith_doctrine_name:0 "Нереформиран"
+ unreformed_faith_name:0 "$unreformed_faith_doctrine_name$а"
+ unreformed_faith_doctrine_desc:1 "Една нереформирана конфесия няма организирано духовенство и канони. Различните общности могат номинално да изповядват една и съща конфесия, но в същото време да практикуват напълно различни религиозни обреди и суеверия."
  doctrine_parameter_unreformed:1 "Prevents Tribal [rulers|E] from changing [government|E] type \n$EFFECT_LIST_BULLET$Grants the [unreformed_pagan_combat_bonus|E]"
  doctrine_parameter_hostility_override_tenet_unreformed_syncretism:2 "Non-Pagan [faiths|E] with the $tenet_unreformed_syncretism_name$ tenet are considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$"
 

@@ -261,7 +261,7 @@
  go_on_pilgrimage_decision_tooltip:1 "Предприемане на [pilgrimage|E] за да докажа своята вярност към [ROOT.Char.GetFaith.PantheonTerm]"
  go_on_pilgrimage_decision_desc:0 "#F Свещените места са местата в нашия свят, където мога да усетя присъствието на [ROOT.Char.GetFaith.PantheonTerm]. Ако ги посетя лично, всички ще видят, че съм лоялен [ROOT.Char.GetFaith.GetAdherentNameNoTooltip|l].#!"
  go_on_pilgrimage_decision_confirm:0 "Подготвяне за пътуването"
- pilgrimage_effect_1:0 "Ще изберете дестинация сред [Concept( 'holy_sites', 'свещените места' )|El] на вашата [Concept( 'faith', 'вяра' )|E]"
+ pilgrimage_effect_1:0 "Ще изберете дестинация сред [Concept( 'holy_sites', 'свещените места' )|El] на вашето [Concept( 'faith', 'конфесия' )|E]"
  pilgrimage_effect_2:0 "Колкото повече пътувате, толкова повече точки [piety|E] ще получавате"
  pilgrimage_effect_3:0 "Дългите пътувания струват повече #weak (Минимална стойност: @gold_icon! [SCOPE.ScriptValue('pilgrimage_minimum_cost')])#!"
  pilgrimage_effect_4:0 "Дългите пътувания струват повече #weak (Минимална стойност: @gold_icon! [SCOPE.ScriptValue('pilgrimage_medium_extra_cost')])#!"
@@ -770,7 +770,7 @@
  minor_decisions.0003.desc.physical:0 "Това, което виждам пред себе си е [Select_CString(barrel_character.IsFemale, 'селянка', 'селянин' )] с изключително необичаен външен вид. [Select_CString(barrel_character.IsFemale, 'Жената', 'Мъжът' )] ме гледа със шок и страхопочитание, сякаш съм [ROOT.Char.GetFaith.HighGodHerselfHimself] [ROOT.Char.GetFaith.HighGodName]. Очевидно при раждането животът не е бил благосклонен към [barrel_character.GetHerHim] и оттогава [barrel_character.GetSheHe] живее в постоянно страдание. Освен това, местното простолюдие със сигурност [barrel_character.GetHerHis] избягва."
  minor_decisions.0003.desc.maimed:0 "The [barrel_character.GetWomanMan] appears to have seen more than [barrel_character.GetHerHis] fair share of conflict and cruelty in this world, and wears the reminders of every fist and blade which bashed and cut [barrel_character.GetHerHim] down."
  minor_decisions.0003.desc.criminal:0 "Това бедно същество беше измъкнато от тъмниците; затворено за неописуеми престъпления срещу короната, надявайки се на помилване в замяна на [Select_CString(barrel_character.IsFemale, 'нейните', 'неговите' )] умения."
- minor_decisions.0003.desc.ewan:0 "Принуден съм да гледам тази отрепка, приличаща на човешко същество. [Select_CString(barrel_character.IsFemale, 'Бедната жена', 'Бедният човек' )] е толкова [Select_CString(barrel_character.IsFemale, 'изнемощяла', 'изнемощял' )] от болести и наранявания, че е удивително как изобщо успява да се задържи на краката си.
+ minor_decisions.0003.desc.ewan:0 "Принуден съм да гледам тази отрепка, приличаща на човешко същество. [Select_CString(barrel_character.IsFemale, 'Бедната жена', 'Бедният човек' )] е толкова [Select_CString(barrel_character.IsFemale, 'изнемощяла', 'изнемощял' )] от болести и наранявания, че е удивително как изобщо успява да се задържи на краката си."
  minor_decisions.0003.desc.criminal_bridge:0 "\n\nВъпреки, че [barrel_character.GetSheHe] е доказан предател,"
  minor_decisions.0003.desc.bridge_1:0 "\n\nВъпреки [Select_CString(barrel_character.IsFemale, 'нейното', 'неговото' )] състояние,"
  minor_decisions.0003.desc.bride_2:0 "научих, че [barrel_character.GetSheHe] е"

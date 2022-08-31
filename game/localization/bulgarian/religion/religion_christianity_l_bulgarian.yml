@@ -5,7 +5,7 @@
  christianity_religion_adj:0 "Християн"
  christianity_religion_adherent:0 "Christian"
  christianity_religion_adherent_plural:0 "Christians"
- christianity_religion_desc:0 "Focused on the life and teachings of Jesus of Nazareth, Christianity revolves around the concept of salvation, in which adherents are forgiven for their sins and welcomed by God into the afterlife."
+ christianity_religion_desc:0 "В центъра на християнството са животът и учението на Исус от Назарет. Най-важната концепция на християнството е спасението, което само истинските християни могат да постигнат: те получават опрощаване на греховете и Бог ги среща в отвъдния живот."
  christianity_high_god_name:0 "Бог"
  christianity_high_god_name_2:0 "$christianity_high_god_name$" # Optional translation alt
  christianity_high_god_name_3:0 "$christianity_high_god_name$" # Optional translation alt
@@ -217,7 +217,7 @@
  orthodox_adj:0 "Православие"
  orthodox_adherent:0 "Православен християнин"
  orthodox_adherent_plural:0 "Православни християни"
- orthodox_desc:0 "Поддържайки, че нейните епископи са истинските и преки наследници на Христовите апостоли, Източноправославната църква твърди, че е изконната християнска вяра, предавана чрез свещената литургична традиция."
+ orthodox_desc:0 "Поддържайки, че нейните епископи са истинските и преки наследници на Христовите апостоли, Източноправославната църква твърди, че е изконното християнско изповедание, предавана чрез свещената литургична традиция."
  orthodox_religious_head_title:0 "Патриарх"
  orthodox_religious_head_title_name:0 "Патриаршия"
 

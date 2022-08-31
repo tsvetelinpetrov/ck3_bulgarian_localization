@@ -72,7 +72,7 @@
  SUPPLY_STATE_2:0 "Глад"
  SUPPLY_STATE_EVENT_TROOPS_IGNORING_SUPPLY:0 "$COUNT$ Soldiers in this army are not using supply"
  SUPPLY_STATE_NO_LOSS_PERIOD:1 "Because it has been raised recently, the [army|E] will not use supply until [DATE.GetStringShort|V]"
- SUPPLY_STATE_GATHERING:0 "The [army|E] will not use supply until it has gathered"
+ SUPPLY_STATE_GATHERING:0 "[Concept( 'army', 'Армията' )|E] няма да използва провизии докато не се събере"
  ARMY_NUMBER_OF_MEN:1 "$MAX_MEN|0$"
  ARMY_NUMBER_OF_MEN_NOT_MAX:0 "$LIVING|0V$/$MAX_MEN|0V$"
  ARMY_NUMBER_OF_LEVIES:0 "[levies|E]: $MAX_MEN|0V$"
