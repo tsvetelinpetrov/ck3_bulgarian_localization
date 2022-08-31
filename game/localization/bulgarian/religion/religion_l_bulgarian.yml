@@ -25,9 +25,9 @@
  HOLY_SITE_UNDER_CONTROL:0 "#P Controlled by [FAITH.GetName]#!"
  HOLY_SITE_NOT_UNDER_CONTROL:0 "@warning_icon!#X Not controlled by [FAITH.GetName]#!"
  FAITH_WINDOW_HOLY_SITE_TOOLTIP:1 "#T [holy_site|E] of [HolySite.GetName]#!\n[GuiHolySiteItem.GetControlDesc]\nWhen controlled by [GuiHolySiteItem.GetFaith.GetName], the following effects apply:\n[HolySite.GetEffectDesc( GuiHolySiteItem.GetFaith )]\n\n#I Click to view [HolySite.GetBarony.GetName]#!"
- FERVOR_GAIN_FROM_HOLY_SITES:0 "From [holy_sites|E]"
+ FERVOR_GAIN_FROM_HOLY_SITES:0 "От [holy_sites|El]"
  PIETY_HEAD_OF_FAITH:0 "[head_of_faith|E]"
- FERVOR_GAIN_SIZE_MODIFIER:0 "Size of [faith|E]"
+ FERVOR_GAIN_SIZE_MODIFIER:0 "Размер на [faith|El]"
 
  #One-time fervor changes
  fervor_gain_built_temple_holding:0 "New Temple Holding in [temple_location.GetName]"
@@ -914,12 +914,12 @@
 
  FAITH_CREATION_DUCHY_OR_HIGHER_FIRST_NOT:1 "Your highest held [title|E] is #bold not#! a Duchy or higher"
  
- FAITH_HOSTILITY_OPINION:0 "$BULLET_WITH_TAB$ Character [opinion|E]: $VALUE|=+$"
- FAITH_HOSTILITY_COUNTY_OPINION:1 "$BULLET_WITH_TAB$ Maximum [county_opinion|E] penalty: $VALUE|=+$"
- FAITH_HOSTILITY_NO_USURP:0 "$BULLET_WITH_TAB$ #bold Cannot#! [usurp|E] their [titles|E]"
- FAITH_HOSTILITY_GHW:0 "$BULLET_WITH_TAB$ Can start [great_holy_wars|E] against them"
- FAITH_HOSTILITY_USURP:0 "$BULLET_WITH_TAB$ Can [usurp|E] their [titles|E]"
- FAITH_HOSTILITY_HOLY_ORDER:0 "$BULLET_WITH_TAB$ Can use [holy_orders|E] against them"
+ FAITH_HOSTILITY_OPINION:0 "$BULLET_WITH_TAB$ [opinion|E] на персонажите: $VALUE|=+$"
+ FAITH_HOSTILITY_COUNTY_OPINION:1 "$BULLET_WITH_TAB$ Макс. загуба на [county_opinion|El]: $VALUE|=+$"
+ FAITH_HOSTILITY_NO_USURP:0 "$BULLET_WITH_TAB$ #bold Не е възможно#! [Concept( 'usurp', 'узурпиране' )|E] на техни [titles|El]"
+ FAITH_HOSTILITY_GHW:0 "$BULLET_WITH_TAB$ Възможно е започване на [great_holy_wars|El] срещу тях"
+ FAITH_HOSTILITY_USURP:0 "$BULLET_WITH_TAB$ Възможно е [Concept( 'usurp', 'узурпиране' )|E] на техните [titles|El]"
+ FAITH_HOSTILITY_HOLY_ORDER:0 "$BULLET_WITH_TAB$ Можете да използвате [holy_orders|El] срещу тях"
  
  #General God keys
  religionname_creator_name:0 "#D creator#!"
