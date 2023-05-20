@@ -23,7 +23,7 @@
  #ADD_martial_ACTION_POINT_EFFECT:0 "" delete this
  #ADD_intrigue_ACTION_POINT_EFFECT:0 "" delete this
  ADD_OPINION_EFFECT:0 "$CHARACTER$'s Opinion of $TARGET$ changes by $VALUE|+$ until $DATE$\n"
- ADD_OPINION_EFFECT_RANGE:0 "$CHARACTER$'s Opinion of $TARGET$ changes by $VALUE|+$ until $DATE_MIN$ - $DATE_MAX$\n"
+ ADD_OPINION_EFFECT_RANGE:0 "$CHARACTER$'s Opinion of $TARGET$ changes by $VALUE|+$ until $DATE_MIN$, $DATE_MAX$\n"
  ADD_OPINION_EFFECT_NO_DATE:0 "$CHARACTER$'s Opinion of $TARGET$ changes by $VALUE|+$"
  ADD_OPINION_EFFECT_HAS_IMPRISONMENT_REASON:1 "@portrait_punishment_icon! #TUT_KW Crime — Allows [CHARACTER.GetShortUIName] to rightfully imprison [TARGET_CHARACTER.GetShortUIName]#!"
  ADD_OPINION_EFFECT_HAD_IMPRISONMENT_REASON:0 "$ADD_OPINION_EFFECT_HAS_IMPRISONMENT_REASON$"

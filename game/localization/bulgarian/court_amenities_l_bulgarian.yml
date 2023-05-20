@@ -33,7 +33,7 @@
  court_lodging_standards_small_desc:0 "There is space for any courtier to have their own room."
  court_lodging_standards_middling_desc:0 "Every courtier's room is well-provided."
  court_lodging_standards_spacious_desc:0 "Any inhabitants of this court can expect a suite of rooms."
- court_lodging_standards_grand_desc:0 "Guests know they can request any luxuries within their lodgings. Any book for their study, any late-night drink - rooms are attended at every hour."
+ court_lodging_standards_grand_desc:0 "Guests know they can request any luxuries within their lodgings. Any book for their study, any late-night drink, rooms are attended at every hour."
 
  court_servants:0 "Court Servants"
  court_servants_default:1 "Very Few Servants"

@@ -7158,13 +7158,13 @@
  dynn_Bideyat:0 "Bideyat"
  dynn_Toubou:0 "Toubou"
  dynn_Sao:0 "Sao"
- #Mongolic - mongol
+ #Mongolic, mongol
  dynn_Keshmiti:0 "Keshmiti"
  dynn_Uduyid:0 "Uduyid"
  dynn_Uvas:0 "Uvas"
  dynn_Khaad:0 "Khaad"
  dynn_Khalka:0 "Khalka"
- #Mongolic - buryat
+ #Mongolic, buryat
  dynn_Yrkhu:0 "Yrkhu"
  dynn_Irgit:0 "Irgit"
  dynn_Khori_Tumed:0 "Khori-Tumed"
@@ -7188,7 +7188,7 @@
  dynn_Khora:0 "Khora"
  dynn_Tayanid:0 "Tayanid"
  dynn_Baataran:0 "Baataran"
- #Mongolic - oirat
+ #Mongolic, oirat
  dynn_Koshut:0 "Koshut"
  dynn_O_lO_t:0 "Ölöt"
  dynn_Torghut:0 "Torghut"
@@ -7211,7 +7211,7 @@
  dynn_Kolyokod:0 "Kolyokod"
  dynn_O_mO_red:0 "Ömöred"
  dynn_MU_renig:0 "Mürenig"
- #Mongolic - naiman
+ #Mongolic, naiman
  dynn_GU_chU_gU_d:0 "Güchügüd"
  dynn_Betegin:0 "Betegin"
  dynn_Buku:0 "Buku"
@@ -7236,7 +7236,7 @@
  dynn_EgU_ir:0 "Egüir"
  dynn_Ijigiak:0 "Ijigiak"
  dynn_Jamanig:0 "Jamanig"
- #Mongolic - kerait
+ #Mongolic, kerait
  dynn_Jirkin:0 "Jirkin"
  dynn_Konkant:0 "Konkant"
  dynn_Sukait:0 "Sukait"
@@ -7261,7 +7261,7 @@
  dynn_Gurdugusid:0 "Gurdugusid"
  dynn_Esorig:0 "Esorig"
  dynn_NO_O_gemir:0 "Nöögemir"
- #Turkic - uriankhai
+ #Turkic, uriankhai
  dynn_Tuva:0 "Tuva"
  dynn_Karagas:0 "Karagas"
  dynn_Khakas:0 "Khakas"

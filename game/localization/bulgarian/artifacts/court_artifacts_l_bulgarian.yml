@@ -3,7 +3,7 @@
  # Procedural court artifacts #
  ##############################
 
- # Wall Decorations - Large
+ # Wall Decorations, Large
  artifact_wall_tapestry_name:0 "$artifact_name_prefix$ Tapestry"
  artifact_wall_tapestry_description:1 "A large [newly_created_artifact.GetFeatureText( 'generic_material_cloth' )] tapestry of [SCOPE.Custom('ArtifactQuality')] craftsmanship. [newly_created_artifact.GetFeatureText( 'tapestry_scene' )]"
  feature_tapestry_scene_religious:0 "The cloth depicts several prominent scenes taken from the [Artifact.GetOwner.GetFaith.GetAdjectiveNoTooltip] canon."

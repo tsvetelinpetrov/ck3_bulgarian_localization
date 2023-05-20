@@ -584,8 +584,8 @@
 
 ### Principalities ###
 # Feudal/Tribal
- duke_feudal_male_prince_independent:0 "Prince"
- duke_feudal_female_prince_independent:0 "Princess"
+ duke_feudal_male_prince_independent:0 "Принц"
+ duke_feudal_female_prince_independent:0 "Принцеса"
  duchy_feudal_prince_independent:0 "Principality"
  duke_feudal_male_prince_always:0 "$duke_feudal_male_prince_independent$"
  duke_feudal_female_prince_always:0 "$duke_feudal_female_prince_independent$"
@@ -902,8 +902,8 @@
  prince_muslim_female_dravidian_group_empire:0 "$prince_female_iranian_group_empire$"
 
 ## Imperial Prince ##
- prince_empire:0 "Prince"
- princess_empire:0 "Princess"
+ prince_empire:0 "Принц"
+ princess_empire:0 "Принцеса"
 
 ####################################################
 #Special titles

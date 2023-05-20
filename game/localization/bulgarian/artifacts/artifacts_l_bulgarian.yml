@@ -113,37 +113,37 @@
  wood_ash:0 "ash"
  wood_oak:0 "oak"
 
- # Widespread Regional - Elm (Found all over Europe except southern Spain, Italy, and Greece)
+ # Widespread Regional, Elm (Found all over Europe except southern Spain, Italy, and Greece)
  wood_elm:0 "elm"
 
- # Widespread Regional - Walnut (found all over Europe excluding Scotland and Scandinavia, but including Northern Anatolia/Persia)
+ # Widespread Regional, Walnut (found all over Europe excluding Scotland and Scandinavia, but including Northern Anatolia/Persia)
  wood_walnut:0 "walnut"
 
- # Widespread Regional - Maple (found all over Europe excluding Scotland and northern Scandinavia, as well as northern Morocco/Tunisia/Persia and all of Anatolia)
+ # Widespread Regional, Maple (found all over Europe excluding Scotland and northern Scandinavia, as well as northern Morocco/Tunisia/Persia and all of Anatolia)
  wood_maple:0 "maple"
 
- # Widespread Regional - Pines and Firs (found all over Europe except northern France/Germany and the Balkans, but spreads East through Anatolia, Scandinavia, Russia, China, and Tibet)
+ # Widespread Regional, Pines and Firs (found all over Europe except northern France/Germany and the Balkans, but spreads East through Anatolia, Scandinavia, Russia, China, and Tibet)
  wood_pine:0 "pine"
  wood_fir:0 "fir"
 
- # Widespread Regional - Subsaharan Africa
+ # Widespread Regional, Subsaharan Africa
  wood_fleroya:0 "fleroya"
  wood_sycomore:0 "sycomore"
  wood_padauk:0 "padauk"
 
- # Widespread Regional - India
+ # Widespread Regional, India
  wood_sal:0 "salwood"
  wood_teak:0 "teak"
  wood_rosewood:0 "rosewood"
  wood_satinwood:0 "satinwood"
 
- # Regional - France, England, Wales, Ireland
+ # Regional, France, England, Wales, Ireland
  wood_yew:0 "yew"
 
- # Regional - Mediterranean
+ # Regional, Mediterranean
  wood_olivewood:0 "olivewood"
 
- # Regional - Sri Lanka
+ # Regional, Sri Lanka
  wood_coromandel:0 "coromandel"
  wood_ebony:0 "ebony"
 
@@ -730,7 +730,7 @@
 
 #fund_inspiration.6301 same sex love poems
  prince_archivist_love_poem_name:0 "I the Moon, You the Sun"
- prince_archivist_love_poem_description:0 "A ballad of two men in love - a prince and an archivist, stargazing atop a tower away from prying eyes and together amongst the stars. Rumors suggest the archivist is based off of the author [inspiration_owner.GetTitledFirstNamePossessiveNoTooltip] experiences."
+ prince_archivist_love_poem_description:0 "A ballad of two men in love, a prince and an archivist, stargazing atop a tower away from prying eyes and together amongst the stars. Rumors suggest the archivist is based off of the author [inspiration_owner.GetTitledFirstNamePossessiveNoTooltip] experiences."
  witch_queen_love_poem_name:0 "A Heart Dispelled"
  witch_queen_love_poem_description:0 "A poem featuring two women in love, a witch and a queen lost in the woods by her cottage. Both take solace in a moment away from society. Whispers suggest the witch is a self-caricature from the author [inspiration_owner.GetTitledFirstNameNoTooltip]."
 

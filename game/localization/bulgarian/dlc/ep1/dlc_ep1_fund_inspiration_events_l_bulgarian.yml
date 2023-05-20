@@ -630,7 +630,7 @@
 
  # Weaver is being too much of a modernist 
  fund_inspiration.4010.t:1 "$fund_inspiration.title$ Composition in Red, Blue and [ROOT.Char.GetTitleAsNameNoTooltip|U]"
- fund_inspiration.4010.desc:0 "I check in on my weaver's workshop to see how my tapestry is progressing. Inside are a few courtiers. They are all examining the walls, hands clasped behind their backs. The tapestries present are peculiar washes of color. One has ungainly splotches here and there. One is white with a few squares. One has spinning tangled lines. What kind of art is this?\n\n[artistic_courtier_1.GetTitledFirstNameNoTooltip] points to a section which looks like a stain. "Doesn't this filthy brown against the white really suggest the violence innate in man?"\n\n[artistic_courtier_2.GetTitledFirstNameNoTooltip] nods. "I think it shows [inspiration_owner.GetTitledFirstNameNoTooltip] raging against [inspiration_owner.GetHerHis] childhood - it looks to be in the shape of [inspiration_owner.GetHerHis] mother.""
+ fund_inspiration.4010.desc:0 "I check in on my weaver's workshop to see how my tapestry is progressing. Inside are a few courtiers. They are all examining the walls, hands clasped behind their backs. The tapestries present are peculiar washes of color. One has ungainly splotches here and there. One is white with a few squares. One has spinning tangled lines. What kind of art is this?\n\n[artistic_courtier_1.GetTitledFirstNameNoTooltip] points to a section which looks like a stain. "Doesn't this filthy brown against the white really suggest the violence innate in man?"\n\n[artistic_courtier_2.GetTitledFirstNameNoTooltip] nods. "I think it shows [inspiration_owner.GetTitledFirstNameNoTooltip] raging against [inspiration_owner.GetHerHis] childhood, it looks to be in the shape of [inspiration_owner.GetHerHis] mother.""
  fund_inspiration.4010.a:0 "Nod in understanding and compliment the artist"
  fund_inspiration.4010.b:0 ""Disgusting! I must go look at some traditional art now.""
  fund_inspiration.4010.b.tt:0 "Your investment is returned and the work cancelled"
@@ -742,7 +742,7 @@
 
 # Weaver is being too much of a modernist 
  fund_inspiration.6200.t:1 "$fund_inspiration.title$ Composition in Red, Blue and [ROOT.Char.GetTitleAsNameNoTooltip|U]"
- fund_inspiration.6200.desc:2 "I check in on my weaver's workshop to see how my tapestry is progressing. Inside are a few courtiers. They are all examining the walls, hands clasped behind their backs. The tapestries present are peculiar washes of color. One has ungainly splotches here and there. One is white with a few squares. One has spinning tangled lines. What kind of art is this?\n\n[artistic_courtier_1.GetTitledFirstName] points to a section which looks like a stain. "Doesn't this filthy brown against the white really suggest the violence innate in man?"\n\n[artistic_courtier_2.GetTitledFirstNameNoTooltip] nods. "I think it shows [ROOT.Char.GetTitledFirstNameNoTooltip] raging against [ROOT.Char.GetHerHis] childhood - it looks to be in the shape of [ROOT.Char.GetHerHis] mother.""
+ fund_inspiration.6200.desc:2 "I check in on my weaver's workshop to see how my tapestry is progressing. Inside are a few courtiers. They are all examining the walls, hands clasped behind their backs. The tapestries present are peculiar washes of color. One has ungainly splotches here and there. One is white with a few squares. One has spinning tangled lines. What kind of art is this?\n\n[artistic_courtier_1.GetTitledFirstName] points to a section which looks like a stain. "Doesn't this filthy brown against the white really suggest the violence innate in man?"\n\n[artistic_courtier_2.GetTitledFirstNameNoTooltip] nods. "I think it shows [ROOT.Char.GetTitledFirstNameNoTooltip] raging against [ROOT.Char.GetHerHis] childhood, it looks to be in the shape of [ROOT.Char.GetHerHis] mother.""
  fund_inspiration.6200.a:0 "Nod in understanding and compliment the artist"
  fund_inspiration.6200.b:0 ""Disgusting! I must go look at some traditional art now.""
  fund_inspiration.6200.b.tt:0 "Your investment is returned and the work cancelled"
@@ -966,7 +966,7 @@
  artifact_motto_inscribed:0 "[newly_created_artifact.GetDesc]\n\nThe motto of the [owner.GetHouse.GetName] family, #EMP '[owner.GetHouse.GetMotto]'#!, is elegantly inscribed on one side."
  artifact_motto_written:0 "[newly_created_artifact.GetDesc]\n\nThe motto of the [owner.GetHouse.GetName] family, #EMP '[owner.GetHouse.GetMotto]'#!, is written in a highly-decorative style on the first page."
  artifact_motto_woven:0 "[newly_created_artifact.GetDesc]\n\nThe motto of the [owner.GetHouse.GetName] family, #EMP '[owner.GetHouse.GetMotto]'#!, is elegantly woven above the main scene."
- # Artifact modification: choose modifiers - weapons and armors
+ # Artifact modification: choose modifiers, weapons and armors
  fund_inspiration.7100.t:0 "$fund_inspiration.title$ Creative Direction"
  fund_inspiration.7100.desc:0 ""My [ROOT.Char.GetLadyLord]! The work on your precious artifact is proceeding well!" [inspiration_owner.Custom2('MyCharacterIntroduction', ROOT.Char)|U] seems in a very good mood today.\n\n"I'm not making any promises but... if I managed to produce a true masterpiece, what idea would you like to guide my hand?""
  fund_inspiration.7100.a:0 "To cause more casualties to #EMP them#!, less to #EMP us#!."
@@ -979,7 +979,7 @@
  fund_inspiration.7100.d.tt:0 "Your artifact may gain a terrain-related modifier."
  fund_inspiration.7100.e:0 "Whatever."
  fund_inspiration.7100.e.tt:0 "The resulting artifact modifiers will be random."
- # Artifact modification: choose modifiers - regalia and crowns
+ # Artifact modification: choose modifiers, regalia and crowns
  fund_inspiration.7110.a:0 "To make every ruler jealous of me!"
  fund_inspiration.7110.a.tt:0 "Your artifact may gain a rulers' opinion modifier."
  fund_inspiration.7110.b:0 "To bring glory to my dynasty."
@@ -992,7 +992,7 @@
  fund_inspiration.7110.e.tt:0 "Your artifact may gain a vassal opinion modifier."
  fund_inspiration.7110.g:0 "To impress my whole court."
  fund_inspiration.7110.g.tt:0 "Your artifact may gain a courtiers opinion modifier."
- # Artifact modification: choose modifiers - sculptures and thrones
+ # Artifact modification: choose modifiers, sculptures and thrones
  fund_inspiration.7120.a:0 "To legitimize my reign."
 
  fund_inspiration.7120.a.tt:0 "Your artifact may gain a short reign modifier"
