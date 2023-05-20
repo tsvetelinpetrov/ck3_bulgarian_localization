@@ -25,15 +25,15 @@
 
  INSPIRATION_GENERAL_TOOLTIP_SPONSOR:0 "[Inspiration.GetSponsor.GetUIName|U]"
  INSPIRATION_GENERAL_TOOLTIP_NO_SPONSOR:0 "None"
- INSPIRATION_GENERAL_TOOLTIP:2 "[SelectLocalization( StringIsEmpty( Inspiration.GetCompletionEffect ), '', 'INSPIRATION_GENERAL_TOOLTIP_EFFECT' )]#S Progress:#! [Inspiration.GetProgress|V]/[GetDefine( 'NInspiration', 'MAX_PROGRESS' )|V]\n#S Invested [gold|E]:#! @gold_icon! [Inspiration.GetInvestedGold|V]\n#S Owner:#! [Inspiration.GetOwner.GetUIName]\n#S Sponsor:#! [SelectLocalization( Inspiration.GetSponsor.IsValid, 'INSPIRATION_GENERAL_TOOLTIP_SPONSOR', 'INSPIRATION_GENERAL_TOOLTIP_NO_SPONSOR' )]\n\n#F [Inspiration.GetDescription]#!"
+ INSPIRATION_GENERAL_TOOLTIP:2 "[SelectLocalization( StringIsEmpty( Inspiration.GetCompletionEffect ), '', 'INSPIRATION_GENERAL_TOOLTIP_EFFECT' )]#S Progress:#! [Inspiration.GetProgress|V]/[GetDefine( 'NInspiration', 'MAX_PROGRESS' )|V]\n#S Invested [gold|E]:#! @gold_icon! [Inspiration.GetInvestedGold]\n#S Owner:#! [Inspiration.GetOwner.GetUIName]\n#S Sponsor:#! [SelectLocalization( Inspiration.GetSponsor.IsValid, 'INSPIRATION_GENERAL_TOOLTIP_SPONSOR', 'INSPIRATION_GENERAL_TOOLTIP_NO_SPONSOR' )]\n\n#F [Inspiration.GetDescription]#!"
  INSPIRATION_GENERAL_TOOLTIP_EFFECT:0 "#S Effect:#!\n[Inspiration.GetCompletionEffect]\n\n"
- CHARACTER_HAS_INSPIRATION_TOOLTIP:1 "#T Inspired#!\n[Character.GetUIName] has the [Character.GetCurrentInspiration.GetName], [Character.Custom('InspirationTypeDescriptionFuturePresent')].\n\n[Character.Custom('InspiredPersonQuality')]"
+ CHARACTER_HAS_INSPIRATION_TOOLTIP:1 "#T Inspired#!\n[Character.GetUIName] has the [Character.GetCurrentInspiration.GetName] - [Character.Custom('InspirationTypeDescriptionFuturePresent')].\n\n[Character.Custom('InspiredPersonQuality')]"
  inspiration_type_desc_present:0 "[ROOT.Char.GetSheHe] is [ROOT.Char.Custom('InspirationTypeDescription')]"
  inspiration_type_desc_future:0 "[ROOT.Char.GetSheHe] wants to [ROOT.Char.Custom('InspirationTypeDescription')]"
  CHARACTER_HAS_COMPLETED_AN_INSPIRATION_TOOLTIP:1 "#T Completed Inspiration#!\n[Character.GetUIName] has completed an [inspiration|E] during [Character.GetHerHis] lifetime – [Character.GetSheHe] [Character.Custom('InspirationTypeDescriptionPast')]."
  
  INSPIRATIONS_HEADER:0 "Inspirations"
- SELECTED_INSPIRATION_TEXT:1 "[Character.GetUINameNoTooltip] has the [Character.GetCurrentInspiration.GetName], [Character.Custom('InspirationTypeDescriptionFuturePresent')].\n\n[Character.Custom('InspiredPersonQuality')]"
+ SELECTED_INSPIRATION_TEXT:1 "[Character.GetUINameNoTooltip] has the [Character.GetCurrentInspiration.GetName] - [Character.Custom('InspirationTypeDescriptionFuturePresent')].\n\n[Character.Custom('InspiredPersonQuality')]"
  SELECTED_INSPIRATION_HEADER:0 "Inspiration"
  START_SPONSOR_INSPIRATION:0 "Sponsor Inspiration"
  INSPIRATION_INVESTED_GOLD:0 "Total Gold Invested: @gold_icon! [Inspiration.GetInvestedGold]"
@@ -41,7 +41,7 @@
  INSPIRATION_ITEM_PROGRESS_TOOLTIP:0 "#T Inspiration In Progress: [Inspiration.GetProgress|0V]/#V 10#!#!\nThe [inspiration|E] has a [Inspiration.GetProgressChance|%/V] chance of progressing each month."
  INSPIRATION_ESTIMATED_REMAINING:0 "#V ~[Inspiration.GetEstimatedTimeRemaining]#!"
  INSPIRATION_ESTIMATED_TIME_TOOLTIP:0 "#T Estimated time to completion: #V ~[Inspiration.GetEstimatedTimeRemaining]#!#!\nThis is based on the current chance to progress of [Inspiration.GetProgressChance|%/V]."
- TT_INSPIRATION_WIDGET:1 "#T Inspiration Project#!\n[Character.GetUIName] has the [Character.GetCurrentInspiration.GetName], [Character.Custom('InspirationTypeDescriptionFuturePresent')].\n\n#I Click to View#!"
+ TT_INSPIRATION_WIDGET:1 "#T Inspiration Project#!\n[Character.GetUIName] has the [Character.GetCurrentInspiration.GetName] - [Character.Custom('InspirationTypeDescriptionFuturePresent')].\n\n#I Click to View#!"
 
  weapon_inspiration:0 "Weapon Inspiration"
  weapon_inspiration_desc:1 "A character who has a Weapon Inspiration is [inspired|E] to forge a weapon [artifact|E]. This can include anything from swords to spears and it will be carried in hand."
