@@ -1255,6 +1255,7 @@
  dynn_Cannevet:0 "Cannevet"
  dynn_Canossa:0 "Canossa"
  dynn_Cantabria:0 "Cantabria"
+ dynn_Cantalini:0 "Cantalini"
  dynn_Cantemir:0 "Cantemir"
  dynn_Canterbury:0 "Canterbury"
  dynn_Canu:0 "Canu"
@@ -2137,6 +2138,7 @@
  dynn_Franconian:0 "Franconia"
  dynn_Franken:0 "Franken"
  dynn_Frankopan:0 "Frankopan"
+ dynn_Franzen:0 "Franzén"
  dynn_Frary:0 "Frary"
  dynn_Fraser:0 "Fraser"
  dynn_Fredelon:0 "Fredelon"
@@ -3449,7 +3451,7 @@
  dynn_Kurgani:0 "Kurgani"
  dynn_Kurki:0 "Kurki"
  dynn_Kurowie:0 "Kurowie"
- dynn_Kurs:0 "Kurs"
+ dynn_Kurs:1 "Kurš"
  dynn_Kurtikainos:0 "Kurtikainos"
  dynn_Kuru:0 "Kuru"
  dynn_Kushru:0 "Kushru"
@@ -4003,6 +4005,7 @@
  dynn_Matiyid:0 "Matiyid"
  dynn_Matsya:0 "Matsya"
  dynn_Matteski:0 "Matteski"
+ dynn_Matsdotter:0 "Matsdotter"
  dynn_Maturid:0 "Maturid"
  dynn_Matveev:0 "Matveev"
  dynn_Matveyev:0 "Matveyev"
@@ -4812,6 +4815,7 @@
  dynn_Pavia:0 "Pavia"
  dynn_Paxenos:0 "Paxenos"
  dynn_Pay_de_Provence:0 "Pay de Provence"
+ dynn_Pazos:0 "Pazos"
  dynn_PE_rez_de_Zamora:0 "Pérez de Zamora"
  dynn_PE_rez:0 "Pérez"
  dynn_PE_rigord:0 "Périgord"
@@ -5688,7 +5692,6 @@
  dynn_Skeblenos:0 "Skeblenos"
  dynn_Skepastos:0 "Skepastos"
  dynn_Skepides:0 "Skepides"
- dynn_SkjA_ran:0 "Skjæran"
  dynn_Skjegge:0 "Skjegge"
  dynn_SkjO_ldung:0 "Skjöldung"
  dynn_Skleropoulos:0 "Skleropoulos"
@@ -6344,6 +6347,7 @@
  dynn_Ugandi:0 "Ugandi"
  dynn_Uglesa:0 "Uglesa"
  dynn_Ugrin:0 "Ugrin"
+ dynn_Uhl:0 "Uhl"
  dynn_Uib:0 "Uib"
  dynn_Uilleim:0 "Uilleim"
  dynn_Ukhaidhirid:0 "Ukhaidhirid"
@@ -7025,7 +7029,7 @@
  dynnpat_suf_owski:0 "owski"
  dynnpat_suf_s:0 "s"
  dynnpat_suf_s_dze:0 "s dze"
- dynnpat_suf_sdatter:0 "сдатер"
+ dynnpat_suf_sdatter:0 "sdatter"
  dynnpat_suf_sdaughter:0 "sdaughter"
  dynnpat_suf_sdochter:0 "dochter"
  dynnpat_suf_sdohtar:0 "dohtar"
@@ -7034,8 +7038,8 @@
  dynnpat_suf_sdottir:0 "sdottir"
  dynnpat_suf_sen:0 "sen"
  dynnpat_suf_shvili:0 "shvili"
- dynnpat_suf_son:0 "сън"
- dynnpat_suf_sson:0 "сон"
+ dynnpat_suf_son:0 "son"
+ dynnpat_suf_sson:0 "sson"
  dynnpat_suf_sunu:0 "sunu"
  dynnpat_suf_szoon:0 "szoon"
  dynnpat_suf_uulu:0 " uulu"
@@ -7158,13 +7162,13 @@
  dynn_Bideyat:0 "Bideyat"
  dynn_Toubou:0 "Toubou"
  dynn_Sao:0 "Sao"
- #Mongolic, mongol
+ #Mongolic - mongol
  dynn_Keshmiti:0 "Keshmiti"
  dynn_Uduyid:0 "Uduyid"
  dynn_Uvas:0 "Uvas"
  dynn_Khaad:0 "Khaad"
  dynn_Khalka:0 "Khalka"
- #Mongolic, buryat
+ #Mongolic - buryat
  dynn_Yrkhu:0 "Yrkhu"
  dynn_Irgit:0 "Irgit"
  dynn_Khori_Tumed:0 "Khori-Tumed"
@@ -7188,7 +7192,7 @@
  dynn_Khora:0 "Khora"
  dynn_Tayanid:0 "Tayanid"
  dynn_Baataran:0 "Baataran"
- #Mongolic, oirat
+ #Mongolic - oirat
  dynn_Koshut:0 "Koshut"
  dynn_O_lO_t:0 "Ölöt"
  dynn_Torghut:0 "Torghut"
@@ -7211,7 +7215,7 @@
  dynn_Kolyokod:0 "Kolyokod"
  dynn_O_mO_red:0 "Ömöred"
  dynn_MU_renig:0 "Mürenig"
- #Mongolic, naiman
+ #Mongolic - naiman
  dynn_GU_chU_gU_d:0 "Güchügüd"
  dynn_Betegin:0 "Betegin"
  dynn_Buku:0 "Buku"
@@ -7236,7 +7240,7 @@
  dynn_EgU_ir:0 "Egüir"
  dynn_Ijigiak:0 "Ijigiak"
  dynn_Jamanig:0 "Jamanig"
- #Mongolic, kerait
+ #Mongolic - kerait
  dynn_Jirkin:0 "Jirkin"
  dynn_Konkant:0 "Konkant"
  dynn_Sukait:0 "Sukait"
@@ -7261,7 +7265,7 @@
  dynn_Gurdugusid:0 "Gurdugusid"
  dynn_Esorig:0 "Esorig"
  dynn_NO_O_gemir:0 "Nöögemir"
- #Turkic, uriankhai
+ #Turkic - uriankhai
  dynn_Tuva:0 "Tuva"
  dynn_Karagas:0 "Karagas"
  dynn_Khakas:0 "Khakas"
@@ -10516,6 +10520,17 @@
  dynn_Stokic:0 "Stokić"
  dynn_Banu_Wafid:0 "Banu Wāfid"
  dynn_Ufes:0 "Ufes"
+ dynn_Hermansson:0 "Hermansson"
+ dynn_Broekhof:0 "Broekhof"
+ dynn_oz:0 "Öz"
+ dynn_tosta:0 "Tosta"
+ dynn_eklund:0 "Eklund"
+ dynn_bean:0 "Biene"
+ dynn_hedberg:0 "Hedberg"
+ dynn_versekys:0 "Veršekys"
+ dynn_drake:0 "Drake"
+ dynn_husen:0 "Husén"
+ dynn_dzediti:0 "Dzediti"
 
  #Oriya
  dynn_Chikiti_Ganga:0 "Chikiti Ganga"
