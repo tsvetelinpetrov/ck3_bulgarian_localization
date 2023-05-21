@@ -152,6 +152,7 @@
  improvised_billhook:0 "Farmer's Billhook"
  football_cup:0 "Football Cup"
  participation_trophy:0 "Participation Trophy"
+ perfume_bottle:0 "[ROOT.Char.GetFirstNamePossessive] Perfume"
 
  crushing_charge_modifier:0 "Crushing Charge"
  church_burner_modifier:0 "House of Worship Burner"
@@ -231,3 +232,7 @@
  bibliomancy_fearful_modifier:0 "Afraid"
  bibliomancy_fearful_modifier_desc:0 "This character fears the unknown."
  
+ recent_arson_modifier:0 "Recent Arson"
+ recent_arson_modifier_desc:0 "There was recently a drunken arson in this county. It is unlikely to recover for a long time."
+ arson_rebuilding_modifier:0 "Reconstruction"
+ arson_rebuilding_modifier_desc:0 "There was recently a drunken arson in this county. Funds have been set aside and taxation suspended to aid in the reconstruction."
