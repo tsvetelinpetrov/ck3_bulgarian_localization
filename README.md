@@ -1,7 +1,7 @@
 # Crusader Kings 3 // Bulgarian language (localization)
 **This mod is a translation of CK3 into Bulgarian language.**
 
-Game Version: 1.6.1.2 (And Older)
+Game Version: 1.9.0.3 (And Older)
 
 # Contributing:
 Each translated File must contain your Signature at the end of the file.
