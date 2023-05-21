@@ -193,7 +193,7 @@ fontfiles = {
 
 	group = {
 		languages = { "l_english" "l_french" "l_german" "l_spanish" }
-		files = { "fonts/mapfont/agencyfb-regular.otf" "fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf" "fonts/MonomakhUnicode/MonomakhUnicode.otf" "fonts/Noto_Sans_SC/NotoSansSC-Medium.otf" "fonts/Korean_fontset/GunglipbakmulgwanClassicB.ttf" }
+		files = { "fonts/mapfont/Paradox_King_Script.otf" "fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf" "fonts/MonomakhUnicode/MonomakhUnicode.otf" "fonts/Noto_Sans_SC/NotoSansSC-Medium.otf" "fonts/Korean_fontset/GunglipbakmulgwanClassicB.ttf" }
 	}
 
 	group = {
@@ -284,5 +284,3 @@ font = {
 		fontfiles = "Paradox_King_Script"
 	}
 }
-
-### tsvetelinpetrov, 30.08.2022 ###
