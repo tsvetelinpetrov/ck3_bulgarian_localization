@@ -62,8 +62,6 @@
  ACHIEVEMENT_moving_up_in_the_world_achievement:0 "Moving up in the World"
  ACHIEVEMENT_beacon_of_progress_achievement:0 "Beacon of Progress"
  ACHIEVEMENT_mother_of_us_all_achievement:0 "Mother of us All"
-
- #Unlocked Achievement Desc
  ACHIEVEMENT_ep2_01_the_grandest_tour_achievement:0 "The Grandest Tour"
  ACHIEVEMENT_ep2_02_your_eternal_reward_achievement:0 "Your Eternal Reward"
  ACHIEVEMENT_ep2_03_imperial_march_achievement:0 "Imperial March"
@@ -84,7 +82,7 @@
  ACHIEVEMENT_ep2_18_a_true_and_perfect_knight_achievement:0 "A True & Perfect Knight"
  ACHIEVEMENT_ep2_19_a_e_i_o_u_and_me_achievement:0 "A.E.I.O.U. & Me"
  ACHIEVEMENT_ep2_20_the_iron_and_golden_king_achievement:0 "The Iron and Golden King"
- 
+
  #Unlocked Achievement Desc
  ACHIEVEMENT_DESC_until_death_do_us_part_achievement:1 "[marry|E] another [character|E]"
  ACHIEVEMENT_DESC_way_of_life_achievement:1 "Obtain #EMP every#! perk in a [lifestyle|E]"

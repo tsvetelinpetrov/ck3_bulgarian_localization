@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_bulgarian:
  tournament_events.9000.t:0 "The Sights of [tournament_province.GetNameNoTooltip]"
  tournament_events.9000.desc:0 "Strolling along the tournament outskirts, I am overcome by the sheer beauty that surrounds me here in [tournament_province.GetName].\n\nI trod along [tournament_province.Custom('TerrainTypeProvince')] scattered with patches of [tournament_province.Custom('get_region_flower_type_plural')], deciding to stop only to touch the bark of a pristine [tournament_province.Custom('GetRandomAppropriateTree')] tree. I look up to see a group of [ROOT.Char.Custom('GetRandomRegionalWildDaytimeBird')]s flying above me.\n\n"
  tournament_events.9000.desc_home:0 "I should do this more often, this is my home after all."

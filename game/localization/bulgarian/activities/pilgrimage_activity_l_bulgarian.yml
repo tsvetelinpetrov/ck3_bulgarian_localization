@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_bulgarian:
  #Pious/Worldliness Achieved reward explanations
  activity_pilgrimage_special_type_bar_segment_tt_0:0 "#t Decent Pilgrimage (Tier 1)#!\n[GetPlayer.Custom('GetPiousOrWorldlyRewardTier0')]\n\n#weak [GetPlayer.Custom('GetPiousOrWorldlyFlavorTier0')]#!"
  activity_pilgrimage_special_type_bar_segment_tt_1:0 "#t Great Pilgrimage (Tier 2)#!\n[GetPlayer.Custom('GetPiousOrWorldlyRewardTier1')]\n\n#weak [GetPlayer.Custom('GetPiousOrWorldlyFlavorTier1')]#!"
