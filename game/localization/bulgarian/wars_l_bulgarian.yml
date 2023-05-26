@@ -55,7 +55,7 @@
  DEJURE_CB_WAR_SPECIFIC_NAME:3 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] De Jure War for the [TITLE.GetBaseName]"
  DEJURE_CB_WAR_SPECIFIC_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
  CLAIM_WAR_NAME:2 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] War for [CLAIMANT.GetShortUINamePossessive] Claim on the [TITLE.GetBaseName]"
- CLAIM_CB_NAME:0 "[CLAIMANT.GetShortUINamePossessive|U] [claims|E]"
+ CLAIM_CB_NAME:0 "Вашите [claims|El]"
  CLAIM_WAR_NAME_BASE:1 "[ATTACKER.GetPrimaryTitle.GetAdjective][CLAIMANT.GetShortUINameNotMe][TITLE.GetName]"
  CLAIM_WAR_NAME_MY:2 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] Claim on the [TITLE.GetBaseName]"
  WAR_DECLARED:1 "War Declared"
